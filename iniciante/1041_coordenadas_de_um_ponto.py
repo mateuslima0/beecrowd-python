@@ -1,6 +1,3 @@
-# URI/Beecrowd 1041 - Coordinates of a Point
-# https://www.beecrowd.com.br/judge/pt/problems/view/1041
-
 x = float(input())
 y = float(input())
 
