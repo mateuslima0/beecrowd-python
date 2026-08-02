@@ -1,6 +1,3 @@
-# URI/Beecrowd 1095 - Sequence IJ 1
-# https://www.beecrowd.com.br/judge/pt/problems/view/1095
-
 n = int(input())
 m = int(input())
 
