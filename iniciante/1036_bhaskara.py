@@ -1,6 +1,3 @@
-# URI/Beecrowd 1036 - Bhaskara's Formula
-# https://www.beecrowd.com.br/judge/pt/problems/view/1036
-
 import math
 
 a = float(input())
