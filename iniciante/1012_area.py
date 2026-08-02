@@ -1,6 +1,3 @@
-# URI/Beecrowd 1012 - Area
-# https://www.beecrowd.com.br/judge/pt/problems/view/1012
-
 a = float(input())
 b = float(input())
 c = float(input())
