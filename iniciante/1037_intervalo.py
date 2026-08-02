@@ -1,6 +1,3 @@
-# URI/Beecrowd 1037 - Interval
-# https://www.beecrowd.com.br/judge/pt/problems/view/1037
-
 x = float(input())
 
 if x < 0 or x > 100:
