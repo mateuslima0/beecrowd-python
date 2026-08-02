@@ -1,6 +1,3 @@
-# URI/Beecrowd 1010 - Simple Calculate
-# https://www.beecrowd.com.br/judge/pt/problems/view/1010
-
 quantidade = int(input())
 valor_unitario = float(input())
 
