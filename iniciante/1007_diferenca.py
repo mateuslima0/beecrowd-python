@@ -1,6 +1,3 @@
-# URI/Beecrowd 1007 - Difference
-# https://www.beecrowd.com.br/judge/pt/problems/view/1007
-
 a = int(input())
 b = int(input())
 c = int(input())
