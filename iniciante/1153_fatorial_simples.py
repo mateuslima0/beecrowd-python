@@ -1,6 +1,3 @@
-# URI/Beecrowd 1153 - Simple Factorial
-# https://www.beecrowd.com.br/judge/pt/problems/view/1153
-
 n = int(input())
 fatorial = 1
 
