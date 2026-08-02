@@ -1,7 +1,3 @@
-# URI/Beecrowd 1132 - Multiples of 13
-# https://www.beecrowd.com.br/judge/pt/problems/view/1132
-# Le valores ate encontrar o 0, que encerra a entrada e nao entra na contagem
-
 contador = 0
 
 while True:
