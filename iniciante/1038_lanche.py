@@ -1,6 +1,3 @@
-# URI/Beecrowd 1038 - Snack
-# https://www.beecrowd.com.br/judge/pt/problems/view/1038
-
 codigo = int(input())
 quantidade = int(input())
 
