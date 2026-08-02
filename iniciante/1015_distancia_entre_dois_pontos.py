@@ -1,6 +1,3 @@
-# URI/Beecrowd 1015 - Distance Between Two Points
-# https://www.beecrowd.com.br/judge/pt/problems/view/1015
-
 import math
 
 x1 = float(input())
